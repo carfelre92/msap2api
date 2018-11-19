@@ -1,0 +1,14 @@
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\bin\Debug\netcoreapp2.1\MovieStorage.deps.json
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\bin\Debug\netcoreapp2.1\MovieStorage.runtimeconfig.json
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\bin\Debug\netcoreapp2.1\MovieStorage.runtimeconfig.dev.json
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\bin\Debug\netcoreapp2.1\MovieStorage.dll
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\bin\Debug\netcoreapp2.1\MovieStorage.pdb
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.RazorAssemblyInfo.cache
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.RazorAssemblyInfo.cs
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.AssemblyInfoInputs.cache
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.AssemblyInfo.cs
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.RazorTargetAssemblyInfo.cache
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.dll
+C:\Users\Theodor\source\repos\MovieStorage\MovieStorage\obj\Debug\netcoreapp2.1\MovieStorage.pdb
