@@ -13118,11 +13118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Theodor\\source\\repos\\MovieStorage\\MovieStorage\\MovieStorage.csproj",
+      "projectUniqueName": "C:\\Users\\Theodor\\msap2api\\MovieStorage\\MovieStorage\\MovieStorage.csproj",
       "projectName": "MovieStorage",
-      "projectPath": "C:\\Users\\Theodor\\source\\repos\\MovieStorage\\MovieStorage\\MovieStorage.csproj",
+      "projectPath": "C:\\Users\\Theodor\\msap2api\\MovieStorage\\MovieStorage\\MovieStorage.csproj",
       "packagesPath": "C:\\Users\\Theodor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Theodor\\source\\repos\\MovieStorage\\MovieStorage\\obj\\",
+      "outputPath": "C:\\Users\\Theodor\\msap2api\\MovieStorage\\MovieStorage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
