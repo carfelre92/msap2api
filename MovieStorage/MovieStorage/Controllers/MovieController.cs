@@ -142,6 +142,19 @@ namespace MovieStorage.Controllers
             return returned;
         }
 
+        // GET: api/Movie/Genre
+        [Route("genre")]
+        [HttpGet]
+        public async Task<List<string>> GetGenre()
+        { 
+            var movie = (from m in _context.MovieItem
+                         select m.Genre).Distinct();
+
+            var returned = await movie.ToListAsync();
+
+            return returned;
+        }
+
         [HttpPost, Route("upload")]
         public async Task<IActionResult> UploadFile([FromForm]MovieImage movie)
         {
