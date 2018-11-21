@@ -8,7 +8,7 @@ namespace MovieStorage.Models
 {
     public class MovieImage
     {
-        public string Title { get; set; }
+        public string Title { set; }
         public int Playtime { get; set; }
         public string Genre { get; set; }
         public string Rating { get; set; }
