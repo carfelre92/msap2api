@@ -129,7 +129,7 @@ namespace MovieStorage.Controllers
             return _context.MovieItem.Any(e => e.Id == id);
         }
 
-        // GET: api/Video/Title
+        // GET: api/Movie/Title
         [Route("title")]
         [HttpGet]
         public async Task<List<string>> GetTitle()
