@@ -13118,11 +13118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Theodor\\source\\repos\\MovieDB\\MovieDB\\MovieDB.csproj",
+      "projectUniqueName": "C:\\Users\\Theodor\\weather-app\\msap2api\\MovieStorage\\MovieDB\\MovieDB.csproj",
       "projectName": "MovieDB",
-      "projectPath": "C:\\Users\\Theodor\\source\\repos\\MovieDB\\MovieDB\\MovieDB.csproj",
+      "projectPath": "C:\\Users\\Theodor\\weather-app\\msap2api\\MovieStorage\\MovieDB\\MovieDB.csproj",
       "packagesPath": "C:\\Users\\Theodor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Theodor\\source\\repos\\MovieDB\\MovieDB\\obj\\",
+      "outputPath": "C:\\Users\\Theodor\\weather-app\\msap2api\\MovieStorage\\MovieDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
