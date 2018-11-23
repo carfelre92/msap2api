@@ -1,0 +1,14 @@
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.deps.json
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.runtimeconfig.json
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.runtimeconfig.dev.json
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.dll
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.pdb
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.RazorAssemblyInfo.cache
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.RazorAssemblyInfo.cs
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.AssemblyInfoInputs.cache
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.AssemblyInfo.cs
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.dll
+C:\Users\Theodor\source\repos\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.pdb
