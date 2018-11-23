@@ -1,0 +1,14 @@
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp2.1\MovieDB.deps.json
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp2.1\MovieDB.runtimeconfig.json
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp2.1\MovieDB.runtimeconfig.dev.json
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp2.1\MovieDB.dll
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.RazorAssemblyInfo.cache
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.RazorAssemblyInfo.cs
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.AssemblyInfoInputs.cache
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.AssemblyInfo.cs
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.RazorTargetAssemblyInfo.cache
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp2.1\MovieDB.pdb
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.dll
+C:\Users\Theodor\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp2.1\MovieDB.pdb
